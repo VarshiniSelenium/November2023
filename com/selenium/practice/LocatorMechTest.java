@@ -15,6 +15,56 @@ public class LocatorMechTest {
 		driver.manage().deleteAllCookies();
 		
 		 driver.get("http://www.bing.com");
+		 
+		 
+		 
+		 
+		 
+		 
+		 
+		 
+		 
+		 
+		 
+		 
+		 
+		 
+		 
+		 
+		 
+		 
+		 
+		 
+		 
+		 
+		 
+		 
+		 
+		 
+		 
+		 
+		 
+		 
+		 
+		 
+		 
+		 
+		 
+		 
+		 
+		 
+		 
+		 
+		 
+		 
+		 
+		 
+		 
+		 
+		 
+		 
+		 
+		 
 		
 		 WebElement videos= driver.findElement(By.linkText("Videos"));
 		 
