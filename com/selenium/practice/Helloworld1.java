@@ -9,7 +9,7 @@ public class Test {
 		int b=1;
 		int c= a*b;
 		System.out.println(c);
-		System.out.println("Helloworld1");
+		System.out.println("Helloworld2");
 	}
 
 }
